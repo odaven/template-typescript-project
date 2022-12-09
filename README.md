@@ -18,3 +18,7 @@ https://jestjs.io
 ### - Prettier
 
 https://prettier.io
+
+### - Zod
+
+https://zod.dev
